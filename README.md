@@ -12,7 +12,7 @@ This work is the software implementation of the concept of neural cryptography, 
 1. Removed .NET Framework dependency
    1. No GUI
    2. Not even a tiny little bit of Managed C++
-   3. AES implemented from GPL2.1 library stored in two files
+   3. AES implemented from GPL2.1 library stored in two files [Urban82/Aes256](https://github.com/Urban82/Aes256)
 2. Using namespaces
 3. Classes separated into distinct files
 4. CMake usage
